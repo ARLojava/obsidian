@@ -1,0 +1,17 @@
+{
+  "customBgColor": true,
+  "customRadius": false,
+  "customPadding": false,
+  "showHeaderSeparator": false,
+  "codeBlockPreset": "none",
+  "codeBlockRadius": 10,
+  "codeBlockPaddingLeft": 20,
+  "codeBlockPaddingRight": 20,
+  "copyButtonOnHover": true,
+  "chineseFenceTrigger": true,
+  "allowCustomLanguage": true,
+  "customLanguages": [],
+  "jumpUpHotkey": "Mod-Shift-b",
+  "jumpDownHotkey": "Mod-Shift-a",
+  "language": "zh"
+}
